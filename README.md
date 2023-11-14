@@ -1,1 +1,1 @@
-# hangman-game
+This is a game that I created in Python. I utilized For Loops, Conditionals, and Arrays in this program. 
